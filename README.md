@@ -8,13 +8,11 @@ The problem set covers 150+ classic C problems, starting from basic I/O to array
 
 ## 🧑‍🎓 Student Information
 
-- **Name:** *(Your Name Here)*
+- **Name:** *Md. Abu Rahan*
 - **Batch:** 62 (Day)
 - **Student ID:** 0282310005101034
 - **Department:** Computer Science & Engineering (CSE)  
 - **University:** Prime University, Dhaka
-
-You can update the name line above before pushing to GitHub.
 
 ---
 
