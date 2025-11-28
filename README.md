@@ -1,8 +1,9 @@
-# C Programming Problem Set – Prime University
+## 🧑‍🏫 Course Teacher
 
-This repository contains my solutions to the **“Problem List of C Programming”** prepared by the **Computer Programming Club, Dept. of CSE, Prime University**. :contentReference[oaicite:0]{index=0}  
-
-The problem set covers 150+ classic C problems, starting from basic I/O to arrays, strings, pointers, structures, file I/O, and date/time handling.
+**Md. Tareq Hasan**  
+Assistant Professor  
+Department of Computer Science & Engineering (CSE)  
+Prime University, Dhaka
 
 ---
 
