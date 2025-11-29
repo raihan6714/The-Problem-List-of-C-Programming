@@ -196,6 +196,12 @@ Suggested folder structure for organizing the solutions:
 │   ├── 148_local_to_gmt.c
 │   ├── 149_hours_to_minutes_seconds.c
 │
-└── More_C_Programs/              # 150 +
+└── More_C_Programs/              # 150-156
     ├── 150_runtime_exceptions_demo.c
+    ├── 151_types_of_errors.c
+│   ├── 152_unreachable_code.c
+│   ├── 153_quotient_remainder.c
+│   ├── 154_initials_of_name.c
+│   ├── 155_draw_circle_graphics.c
+│   ├── 156_print_own_source.c
 
